@@ -18,12 +18,14 @@ Output the results to a new CSV file.
 **Usage**
 Clone the Repository:
 
-git clone https://github.com/yourusername/URL-Status-Checker.git
+[git clone https://github.com/Preetsohi/URL-Status-Checker.git]
+Link: (https://github.com/Preetsohi/URL-Status-Checker.git)
+
 cd URL-Status-Checker
 
 **Run the Script:**
 python3 check_url_status.py <path_to_csv>
-Replace <path_to_csv> with the path to your CSV file containing URLs.
+_Replace <path_to_csv> with the path to your CSV file containing URLs._
 
 **Example CSV (urls.csv):**
 url
